@@ -1,5 +1,5 @@
 # Reserva de habitación para Hotel: Proyecto aún NO concluido.
-## Aplicacion MVC realizada en Java con una arquitectura de 3 niveles:  
+## Aplicacion MVC realizada en Java con una arquitectura de 3 capas:  
 Sistema de reserva de habitación empleando el modelo Data Base Management System. La comunicación entre la aplicación y el DBMS se hace a través del lenguaje estandar Structured Query Language (SQL).
 
 Link directo al video: [_Click Aqui_](https://www.linkedin.com/feed/update/urn:li:activity:6917244981048950785/)
